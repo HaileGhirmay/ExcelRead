@@ -14,7 +14,8 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ReadInvoices {
 	
-	private static final String NAME = "/home/parallels/Documents/docs/invoices.xlsx";
+	//private static final String NAME = "/home/parallels/Documents/docs/invoices.xlsx";
+	private static final String NAME="C:/Users/Dell/Desktop/latam project/ExcelRead/Financial Sample.xlsx";
 
 	public static void main(String[] args) {
 		try {
